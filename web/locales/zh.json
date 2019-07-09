@@ -68,7 +68,7 @@
     "amount": "金额",
     "shares": "红包数",
     "memo": "祝福",
-    "default_memo": "沧海桑田，唯有 {symbol} 长久相伴",
+    "default_memo": "MGD算力网络通行证",
     "pay": "支付红包"
   },
   "packet": {

@@ -68,7 +68,7 @@
     "amount": "Amount",
     "shares": "People",
     "memo": "Memo",
-    "default_memo": "Long {symbol}, short the world",
+    "default_memo": "MGD--Computing network passport",
     "pay": "Pay and Share"
   },
   "packet": {
